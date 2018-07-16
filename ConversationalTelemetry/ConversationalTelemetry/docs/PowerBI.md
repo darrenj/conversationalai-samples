@@ -3,7 +3,7 @@
 Once you have Telemetry flowing you can view in the Application Insights Portal and also configure the sample PowerBI dashboard to point at your data. Note this is a sample enabling you to get started.
 
  - Download PowerBI Desktop from [here](https://powerbi.microsoft.com/en-us/desktop/)
- - Open the provided PowerBI file
+ - Open the [provided]("/ConversationalTelemetry/PowerBI/ConversationalAIBotDashboard.pbix") PowerBI file
  - Go to Query Editor and click on Advanced Editor
  - Click Edit Queries
  ![Edit Queries](editQueries.png)
