@@ -1,7 +1,7 @@
 # conversationalai-samples
 A collection of useful extensions for Microsoft Conversational AI (Bot Framework, LUIS)
 
-- [Conversational Telemetry](ConversationalTelemetry/readme.md)
+- [Conversational Telemetry](ConversationalTelemetry/README.md)
 
 ## Contributing
 
