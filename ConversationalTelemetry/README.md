@@ -3,9 +3,9 @@ We are looking to provide native Telemetry capabilities in a future version of t
 
 This approach uses Application Insights to log an event for every Message received by the Bot and another for any LUIS evaluation. When calling QnAMaker you can log a further event to record finding (or not finding) an answer thus highlighting any knowledge gaps.
 
-[Overview](ConversationalTelemetry/docs/GettingStarted.md)
-[Overview](ConversationalTelemetry/docs/PowerBI.md)
-[Overview](ConversationalTelemetry/docs/TelemetryCreated.md)
+- [Getting Started](ConversationalTelemetry/docs/GettingStarted.md)
+- [PowerBI](ConversationalTelemetry/docs/PowerBI.md)
+- [Telemetry Created](ConversationalTelemetry/docs/TelemetryCreated.md)
 
 ## Contributing
 
