@@ -5,6 +5,7 @@ This approach uses Application Insights to log an event for every Message receiv
 
 - [Getting Started](ConversationalTelemetry/docs/GettingStarted.md)
 - [PowerBI](ConversationalTelemetry/docs/PowerBI.md)
+- [Sample Bot with Telemetry Added](/samples/TelemetryBot/readme.md)
 - [Telemetry Created](ConversationalTelemetry/docs/TelemetryCreated.md)
 
 ## Contributing
