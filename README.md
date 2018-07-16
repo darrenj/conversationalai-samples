@@ -15,5 +15,5 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 Copyright (c) 2018 Darren Jefford
 
-Licensed under the [MIT](LICENSE.md) License.
+Licensed under the [MIT](LICENSE) License.
 
